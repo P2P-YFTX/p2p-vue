@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # p2p-vue
 
@@ -21,3 +22,7 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
+=======
+# p2p-vue
+后台vue
+>>>>>>> 9ec0969605c455f29d60836c4cff375b687248e7
